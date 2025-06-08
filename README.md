@@ -19,7 +19,7 @@ This React Admin Dashboard is a comprehensive and customizable admin panel desig
    ```bash
    git clone https://github.com/Pankajkumar12345678/Admin_Dashboard_app.git
 
-   cd Admin_Dashboard_main
+   cd Admin_Dashboard_app
    ```
 
 2. Install dependencies:
